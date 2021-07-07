@@ -28,7 +28,7 @@ function main() {
         "to": "+1xxxxxxxxxx"
       }
     ],
-    "message": "Row API Call Test",
+    "message": "Raw API Call Test",
     "smsSendOptions": {
       "enableDeliveryReport": true,
       "tag": "testSmsRequest"
